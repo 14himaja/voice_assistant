@@ -1,0 +1,17 @@
+speechrecognition
+pyttsx3
+pyaudio
+wikipedia
+googlesearch-python
+requests
+pywhatkit
+pyjokes
+plyer
+
+pycaw
+screen-brightness-control
+newsapi-python
+numexpr
+PyDictionary
+forex-python
+geocoder
